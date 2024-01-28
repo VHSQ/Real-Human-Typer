@@ -5,3 +5,6 @@ Update #1
 - Made new adjustments to the hotkeys Insert is now a start/resume key and Delete is now stop/pause key and it resumes from where the point it was stopped.
 - Made a new hotkey which is END this is a reset key it clears the text input field by deleting all text from the current position to the end of the line. An easy way to learn to use it now is using a notepad.
 - Made it so this basically replaces the paste option instead of pasting this jus types of for you so you copy either by right clicking on text and copying or you CTRL C and you press Insert and it will begin typing. After each time you pause or stop by pressing Delete press END.
+  Future update:
+- Remove console (currently cant remove it because its detecting the exe without a console as a virus)
+- Make it more smooth and fix all errors.
